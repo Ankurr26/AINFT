@@ -20,7 +20,7 @@ To deploy this contract:
 3. Interact with the contract using a blockchain explorer or a web3 interface.
 
 ## Contact Address
-(Replace with deployed contract address)
+0x866172e274a651fB8AB3ed5a243AE16cc929A141
 
 ## License
 This project is licensed under the MIT License.
